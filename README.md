@@ -1,6 +1,6 @@
 # Linux-IPC-Message-Queues
-### Name : Abinaya A
-### Register Number : 212223040003
+### Name : MANOGARAN S
+### Register Number : 212223240081
 # AIM:
 To write a C program that receives a message from message queue and display them
 
